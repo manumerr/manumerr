@@ -5,7 +5,8 @@
 <h2>Bienvenido a mi proyecto de Github</h2>
 
 <ul>
-    <li>Hola de nuevo</li>
+  <li>Hola</li>
+  <li>Adios</li>
 </ul>
 
 <!--
