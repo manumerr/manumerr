@@ -4,10 +4,9 @@
 <h1>Hola Github</h1>
 <h2>Bienvenido a mi proyecto de Github</h2>
 
-<li>
-  <ul>hola</ul>
-  <ul>adios</ul>
-</li>
+<ul>
+    <li>Hola de nuevo</li>
+</ul>
 
 <!--
 **manumerr/manumerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
